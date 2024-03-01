@@ -4,6 +4,6 @@
 * Why cybersecurity peoples use linux?<br>
 * Why you use linux?<br>
 * What you do in kali linux?<br>
-a\b\c\
-e\d
+a\
+e\
 d
