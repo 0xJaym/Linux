@@ -9,3 +9,4 @@
   PING(Packet Internet Groper). It uses the ICMP protocol to connect to other devices.
 * DU : Disk usage, helps you to identify what files/directories are consuming how much space
 #### String Manipulations commands:
+* 
