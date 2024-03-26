@@ -1,4 +1,4 @@
-* A poer is a Virtual point where network connections start and end. Each port is associatd with a specific process and service.
+* A port is a Virtual point where network connections start and end. Each port is associatd with a specific process and service.
 * FTP - 20 and 21
 * SSH - 22
 * Telnet - 23
