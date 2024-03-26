@@ -1,3 +1,14 @@
 * A poer is a Virtual point where network connections start and end. Each port is associatd with a specific process and service.
-Common Ports :
-* 
+* FTP - 20 and 21
+* SSH - 22
+* Telnet - 23
+* SMTP - 25
+* DNS - 53
+* TRIVIAL FILE TRANSFER PROTOCOL (TFTF)- 69
+* HTTP - 80
+* POP3 - 110
+* RDP - 3389
+* HTTPS - 443
+* IMAP4 - 143
+* SMB - 445
+* NETBIOS - 137 AND 139 
